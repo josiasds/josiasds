@@ -1,11 +1,11 @@
-![Josias Schneider](header.png)
+# Hey, I'm Josias Schneider :wave:
 
-<p>I'm a Brazilian self-taught software engineer, passionate about learning new things and building great products.</p>
+I'm a Brazilian self-taught software engineer, passionate about learning new things and building great products.
 
-<p>:pencil2: I write periodically on <a href="https://theoutsiderdev.substack.com/">The Outsider Dev</a>.</p>
+I write periodically on [The Outsider Dev](https://theoutsiderdev.substack.com/).
+
+Connect with me via [http://theoutsider.dev](http://theoutsider.dev).
 
 ---
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasds&layout=compact&theme=dark" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasds&layout=compact&theme=dark)
