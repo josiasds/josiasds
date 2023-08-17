@@ -8,4 +8,4 @@ Connect with me via [http://theoutsider.dev](http://theoutsider.dev).
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasds&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-josiasds.vercel.app/api/top-langs/?username=josiasds&layout=compact&theme=dark)
